@@ -1,0 +1,101 @@
+avatar:
+    url: https://cdn.jsdelivr.net/gh/Creeper-boom/cdn/img/avatar/avatar.jpg
+
+colors:
+  primary: "#409EFF"
+  # bg: "#F5F5F5"
+  selection_bg: "#409EFF" # 选取文字时的背景色
+
+tags:
+  Vue: "#4fc08d"
+  Hexo: "#0E834D"
+  CSS: "#5298d1"
+  Node.js: "#026E00"
+  Git: "#F14E32"
+  React: "#61dafb"
+  Python: "#3776ab"
+  PHP: "#8892BF"
+  VS Code: "#0066B8"
+  JavaScript: "#F4DF4F"
+  TypeScript: "#317AC6"
+  Laravel: "#F4645F"
+
+  #cdn:
+  #  pre: https://cdn.jsdelivr.net/gh/Creeper-boom/Creeper-boom.github.io@latest
+
+social:
+  - name: Github
+    link: https://github.com/Creeper-boom
+    icon: icon-github-line
+    color: "#181717"
+  - name: E-Mail
+    link: mailto:1283462359@qq.com
+    icon: icon-mail-line
+    color: "#8E71C1"
+  - name: 微信公众号
+    link: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/about/white-qrcode-and-search.jpg
+    icon: icon-wechat-2-line
+    color: "#1AAD19"
+
+banner:
+  title: 码农妙妙屋
+
+notice:
+  enable: true
+  content: 努力沉淀 厚积薄发
+
+mode: auto
+
+bg_image:
+  enable: true
+  url: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-0-blur-30px.jpg
+          # dark:
+          #   # blur: 30px # 设置背景模糊程度
+  opacity: 0.8
+
+cursor:
+  enable: true
+
+baidu_push: true
+
+wordcloud:
+  enable: true
+
+creative_commons:
+  license: by-nc-sa
+  post: true
+  language: deed.zh
+  clipboard: false
+
+lazyload:
+  enable: true
+
+reward:
+  enable: true
+  icon: icon-hand-coin-line
+  comment: 请我来一杯Mojito叭~~
+  # url: https://github.com/YunYouJun/yunyoujun.github.io/issues/96
+  methods:
+    - name: 支付宝
+      path: https://cdn.jsdelivr.net/gh/Creeper-boom/cdn/img/donate/alipay-qrcode.jpg
+      color: "#00A3EE"
+      icon: icon-alipay-line
+    - name: QQ 支付
+      path: https://cdn.jsdelivr.net/gh/Creeper-boom/cdn/img/donate/qqpay-qrcode.jpg
+      color: "#12B7F5"
+      icon: icon-qq-line
+    - name: 微信支付
+      path: https://cdn.jsdelivr.net/gh/Creeper-boom/cdn/img/donate/wechatpay-qrcode.jpg
+      color: "#2DC100"
+      icon: icon-wechat-pay-line
+
+mourn:
+  enable: true
+  days:
+    - "4-4"
+
+symbols_count_time:
+  item_text_post: true
+  item_text_total: true
+  awl: 2
+  wpm: 250
