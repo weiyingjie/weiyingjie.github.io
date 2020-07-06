@@ -7,9 +7,9 @@ colors:
   selection_bg: "#409EFF" # 选取文字时的背景色
 
 tags:
-  Vue: "#4fc08d"
+  C语言: "#4fc08d"
   Hexo: "#0E834D"
-  CSS: "#5298d1"
+  leetcode: "#5298d1"
   Node.js: "#026E00"
   Git: "#F14E32"
   React: "#61dafb"
