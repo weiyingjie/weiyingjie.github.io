@@ -1,5 +1,5 @@
 ---
-title: 两数之和
+title: leetcode-两数之和
 date: 2020-07-06 22:27:14
 tags: [leetcode, C语言]
 ---
