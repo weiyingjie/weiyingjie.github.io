@@ -1,6 +1,7 @@
 ---
 title: APUE-UNIX基础知识
 date: 2020-08-04 00:20:32
+tags: [APUE,Linux]
 ---
 
 ![知识脑图](https://cdn.jsdelivr.net/gh/Creeper-boom/cdn/img/markdown/UNIX基础知识.png)
