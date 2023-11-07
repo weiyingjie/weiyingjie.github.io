@@ -73,7 +73,7 @@ lazyload:
 reward:
   enable: true
   icon: icon-hand-coin-line
-  comment: 请我来一杯Mojito叭~~
+  comment: 请我来一杯咖啡~~
   # url: https://github.com/YunYouJun/yunyoujun.github.io/issues/96
   methods:
     - name: 支付宝
